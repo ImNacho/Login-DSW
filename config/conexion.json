@@ -1,0 +1,6 @@
+{
+	"host": "localhost",
+	"bd": "usuarios",
+	"usuario": "root",
+	"pass": ""
+}

@@ -1,0 +1,14 @@
+Se debe crear una base de datos con nombre 'usuarios',
+una vez creada se debe ejectar el script sql que se anexa en la carpeta
+'usuarios.sql';
+
+Para configurar la conexion de la base de datos, debe dirigirse
+a la carpeta config/conexion.json y configirarla segun su entorno.
+
+El sql ya tiene un usuario administrador creado.
+su username es 'cristiangalarcio' y el
+password es '123456789'
+
+El dashboard de profesores es una pagina estatica, que no tiene 
+funcionalidad, sin embargo se usa para diferenciar el dashboard 
+de un administrador y el de un profesor.
